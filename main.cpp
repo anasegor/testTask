@@ -263,12 +263,11 @@ void parse(std::string path)
 }
 int main(int argc, char *argv[])
 {
-    /*   if (argc = 1)
-          parse(argv[1]);
-      else
-          std::cerr << "Не предоставлено имя файла." << std::endl;
-      std::cout << "Press Enter to exit..." << std::endl;
-      getchar(); */
-    parse("test_file3.txt");
+    if (argc == 1)
+        parse(argv[1]);
+    else
+        std::cerr << "Не предоставлено имя файла." << std::endl;
+    std::cout << "Press Enter to exit..." << std::endl;
+    getchar();
     return 0;
 }

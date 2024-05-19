@@ -12,6 +12,12 @@
 11:30 1 client4
 11:35 2 client4 2
 11:45 3 client4
+11:46 1 client5
+11:46 3 client5
+11:46 1 client6
+11:46 3 client6
+11:46 1 client7
+11:46 3 client7
 12:33 4 client1
 12:43 4 client2
 15:52 4 client4
