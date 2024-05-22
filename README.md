@@ -2,7 +2,7 @@
 
 Этот проект может быть собран с использованием CMake и MinGW.
 
-## Шаги установки:
+## Шаги установки
 ### 1. Загрузка проекта
 
 - `git clone https://github.com/anasegor/testTask.git`
